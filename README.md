@@ -3,7 +3,7 @@
 ## About Me
 Computer Science graduate and aspiring Software Engineer, passionate about leveraging strong data structures and algorithms skills to develop efficient backend and full-stack solutions.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -23,7 +23,7 @@ Computer Science graduate and aspiring Software Engineer, passionate about lever
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
-## 📪 Let's connect!
+## Let's connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milamedic/)
 
 
