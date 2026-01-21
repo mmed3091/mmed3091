@@ -1,7 +1,7 @@
 ## Hi there, I'm Mila! 👋 
 
 ## About Me
-Computer Science graduate and aspiring Software Engineer, focused on backend development with experience developing full-stack applications. Skilled in data structures, algorithms, and designing scalable, efficient solutions. 
+Computer Science graduate and aspiring Software Engineer, focused on backend development with experience developing full-stack applications. Skilled in data structures, algorithms, and applying system design principles in projects. 
 
 ## Skills
 
